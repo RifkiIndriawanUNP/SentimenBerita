@@ -1,7 +1,10 @@
-numpy
+streamlit
 pandas
+numpy
 scikit-learn
 plotly
-matplotlib
 wordcloud
+matplotlib
 nltk
+Sastrawi
+joblib
